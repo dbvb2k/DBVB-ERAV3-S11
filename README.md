@@ -37,7 +37,7 @@ kannada-tokenizer/
 
 1. Clone the repository:
 bash
-git clone https://github.com/dbvb2k/SKVB-ERAV3-S11.git
+git clone https://github.com/dbvb2k/DBVB-ERAV3-S11.git
 cd kannada-tokenizer
 
 2. Install dependencies:
